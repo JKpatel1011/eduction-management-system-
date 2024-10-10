@@ -65,20 +65,7 @@ create a feature issue to discuss about the feature you would like to take up.
 
 Valid Feature Requests will be added to the above list over time.
 
-### Running The Project
 
-Prerequisites For Running The Project Locally:
-
-- Node
-- NPM
-- Git
-
-
-To clone this repository run:
-
-```sh
-$ git clone https://github.com/alii13/examination-management-system.git
-```
 
 Head inside the cloned folder and install the dependencies using NPM
 
@@ -99,11 +86,6 @@ MONGODB_DATABASE_NAME =
 MONGODB_USERNAME = 
 MONGODB_PASSWORD = 
 ```
-[![](https://i.ibb.co/SR06H2S/image.png)]
-
-
-
-[![](https://i.ibb.co/m9cHftr/image.png)]
 
 To start the server run :
 
@@ -127,46 +109,5 @@ $ npm start
 Wait for a few minutes after which it should automatically spin up a development
 server for you on the PORT:3000 & backend server on the PORT 5000 and take you to the login page
 
-### Contributing
 
-To contribute to this repository please first create an issue with the
-appropriate template, after which you can directly fork this repository,make
-changes and start a pull request to the master branch. Please also have a look
-at our Contribution guidelines
-[here](https://github.com/monizb/FireShort/blob/master/CONTRIBUTING.md)
 
-### Live Demo
-
-[![ems-gif.gif](https://s8.gifyu.com/images/ems-gif.gif)](https://gifyu.com/image/RYib)
-
-[https://ems-in.herokuapp.com](https://ems-in.herokuapp.com)
-
-### License
-
-MIT Licensed (Check
-[here]())
-
-## Contributors ✨
-
-Thanks goes to these wonderful people
-([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-   
-  </tr>
-  <tr>
-   
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the
-[all-contributors](https://github.com/all-contributors/all-contributors)
-specification. Contributions of any kind welcome!
